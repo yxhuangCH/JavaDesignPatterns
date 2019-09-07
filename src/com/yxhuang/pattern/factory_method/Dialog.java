@@ -1,7 +1,8 @@
 package com.yxhuang.pattern.factory_method;
 
 /**
- *  Base creator
+ *  Base creator，
+ *  抽象类，不提供所声明的工厂方法（createButton）的实现
  */
 public abstract class Dialog {
 
