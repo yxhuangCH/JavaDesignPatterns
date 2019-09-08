@@ -1,5 +1,8 @@
 package com.yxhuang.pattern.brigde;
 
+/**
+ * Refined Abstraction
+ */
 public class AdvanceRemote extends BasicRemote {
 
 

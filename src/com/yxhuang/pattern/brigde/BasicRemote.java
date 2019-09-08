@@ -7,6 +7,9 @@ public class BasicRemote implements Remote {
         this.device = device;
     }
 
+    /**
+     *  Abstraction(BasicRemote) 将 Client 的请求转发给它的 Implementation(Device)
+     */
     @Override
     public void power() {
         System.out.println("Remote: power toggle");
