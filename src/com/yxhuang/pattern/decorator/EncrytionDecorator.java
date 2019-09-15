@@ -2,6 +2,9 @@ package com.yxhuang.pattern.decorator;
 
 import java.util.Base64;
 
+/**
+ * 添加加密， 解密的功能
+ */
 public class EncrytionDecorator extends DataSourceDecorator {
 
     public EncrytionDecorator(DataSource wrappee) {
