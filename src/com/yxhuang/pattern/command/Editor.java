@@ -5,6 +5,9 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+/**
+ *  Receiver
+ */
 public class Editor {
     public JTextArea textField;
     public String clipboard;

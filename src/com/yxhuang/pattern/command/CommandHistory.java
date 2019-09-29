@@ -2,6 +2,9 @@ package com.yxhuang.pattern.command;
 
 import java.util.Stack;
 
+/**
+ *  Invoker
+ */
 public class CommandHistory {
 
     private Stack<Command> history = new Stack<>();
