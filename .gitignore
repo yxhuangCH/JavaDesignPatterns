@@ -1,5 +1,6 @@
 # IntelliJ
 *.iml
+/.idea/*
 .idea/*
 .idea/workspace.xml
 /.idea/caches/build_file_checksums.ser
